@@ -1,0 +1,7 @@
+{
+  "name": "Fato ou Fake",
+  "description": "Detector e verificador de informações com análises detalhadas, vereditos de Verdadeiro ou Falso e citações de fontes confiáveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
